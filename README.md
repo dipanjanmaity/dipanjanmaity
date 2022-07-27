@@ -1,5 +1,7 @@
 [![MasterHead](https://tridentsys.net/content/images/2020/04/BlogAnalytics.png)](https://dipanjanmaity.io)
-<h1 align="center">Hi 👋, I'm Dipanjan Maity !</h1>
+<img align="left" alt="Coding" width="100" height="100" src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" >
+<img align="right" alt="Coding" width="100" height="100" src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" >
+<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Dipanjan Maity</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
