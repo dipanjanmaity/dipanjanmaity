@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanjanmaity&label=Profile%20views&color=0e75b6&style=flat" alt="dipanjanmaity" /> </p>
 
-- 🔭 I’m currently working on **Tableau**
+- 🔭 I’m currently working on **Analytical Skills**
 
 - 🌱 I’m currently learning **Machine Learning Models For Prediction**
 
