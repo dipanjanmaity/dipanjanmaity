@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **Excel, MS SQL, Python, Tableau, Statistics, ML**
 
-- 📫 How to reach me **dipanjanmaity11@gmail.com**
+- 📫 Mail ID : **dipanjanmaity11@gmail.com**
 
-- Education : **Master of Technology in Operations Research from NIT Durgapur.**
+- :school: Education : **Master of Technology in Operations Research from NIT Durgapur.**
 
 
 
