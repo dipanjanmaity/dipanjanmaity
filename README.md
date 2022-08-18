@@ -23,8 +23,10 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/dipanjan-maity" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
-<a href="https://kaggle.com/dipanjan11" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dipanjan11" /></a>
-<a href="https://www.hackerrank.com/dipanjan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dipanjan11" height="30" width="40" /></a>
+<a href = "https://github.com/dipanjanmaity" ><img src="https://img.icons8.com/windows/48/000000/github.png" /></a>
+<a href="mailto:dipanjanmaity11@gmail.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
+<a href="https://kaggle.com/dipanjan11" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" /></a>
+<a href="https://www.hackerrank.com/dipanjan11" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="dipanjan11" height="44" width="44" /></a>
 </p>
 
 <!--Code For Language and Tool-->
