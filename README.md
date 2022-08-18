@@ -17,10 +17,13 @@
 
 - Education : **Master of Technology in Operations Research from NIT Durgapur.**
 
-<h3 align="left">Connect with me:</h3>
+<!--CONNECT WITH ME CODE  -->
+
+<h2 dir="auto"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" data-animated-image="" </a> <strong>Reach out to me:</strong> </h2>
+
 <p align="left">
-<a href="https://linkedin.com/in/dipanjan-maity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipanjan-maity" height="30" width="40" /></a>
-<a href="https://kaggle.com/dipanjan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dipanjan11" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dipanjan-maity" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
+<a href="https://kaggle.com/dipanjan11" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dipanjan11" /></a>
 <a href="https://www.hackerrank.com/dipanjan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dipanjan11" height="30" width="40" /></a>
 </p>
 
