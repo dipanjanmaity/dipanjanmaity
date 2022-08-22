@@ -1,4 +1,4 @@
-[![MasterHead](https://tridentsys.net/content/images/2020/04/BlogAnalytics.png)](https://dipanjanmaity.io)
+[![MasterHead](https://tridentsys.net/content/images/2020/04/BlogAnalytics.png)](https://linkedin.com/in/dipanjan-maity)
 <img align="left" alt="Coding" width="100" height="100" src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" >
 <img align="right" alt="Coding" width="100" height="100" src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" >
 <h1 align="center">Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Dipanjan Maity</h1>
