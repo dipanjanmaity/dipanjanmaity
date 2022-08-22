@@ -54,6 +54,16 @@
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 <br>
  
+ <!-- Certifications -->  
+    
+ <h2 dir="auto"><img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="35" data-animated-image="" <strong> Certifications:</strong></h2>
+
+<div align="center">
+<a href="https://www.credly.com/badges/371e7536-e00e-44f0-abe4-70fc756c8fe4/public_url"><img src="https://user-images.githubusercontent.com/111112967/185855549-e7d82ffc-84b1-43da-b7a6-2ec0ac193bb6.png"alt="AZ-900" title="AZ-900" height="150" align="center"></a>
+<a href="https://www.credly.com/badges/364287a3-f78b-409e-8aae-fe222d4af15d/public_url"><img src="https://user-images.githubusercontent.com/111112967/185856065-becd42c3-8f34-43dd-a944-913d407715d9.png" alt="GCP-ACE" title="GCP-ACE" height="150" align="center"></a>
+</div>
+
+
 <!-- GITHUB STAT CODE -->
 
 <h2 dir="auto"><img src="https://camo.githubusercontent.com/6324b8a2d7c4e78c6271e5bdb479001f501fe1108cdd4a0563d5b08758feb0c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a434e36463346416b7773794f47553252532f67697068792e676966" width="60" data-animated-image="" <strong>My Github Information:</strong></h2>
