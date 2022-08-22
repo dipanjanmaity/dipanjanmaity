@@ -1,9 +1,9 @@
-[![MasterHead](https://tridentsys.net/content/images/2020/04/BlogAnalytics.png)](https://linkedin.com/in/dipanjan-maity)
+[![MasterHead](https://user-images.githubusercontent.com/79499162/185909215-7339e227-e906-45d2-b10e-51a7c8611585.png)](https://linkedin.com/in/dipanjan-maity)
 <img align="left" alt="Coding" width="100" height="100" src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" >
 <img align="right" alt="Coding" width="100" height="100" src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" >
 <h1 align="center">Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Dipanjan Maity</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/79499162/185909598-e9ec4f45-ac60-4036-9230-96b4ecf16f00.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanjanmaity&label=Profile%20views&color=0e75b6&style=flat" alt="dipanjanmaity" /> </p>
 <h2 dir="auto"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="40" data-animated-image="" ></a> <strong>About Me:</strong></h2>
