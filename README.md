@@ -61,8 +61,8 @@
  <h2 dir="auto"><img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="35" data-animated-image="" <strong> Certifications:</strong></h2>
 
 <div align="center">
-<a href="https://www.credly.com/badges/371e7536-e00e-44f0-abe4-70fc756c8fe4/public_url"><img src="https://user-images.githubusercontent.com/111112967/185855549-e7d82ffc-84b1-43da-b7a6-2ec0ac193bb6.png"alt="Data Analyst Certificate" title="Data Analyst Certificate" height="150" align="center"></a>
-<a href="https://www.credly.com/badges/364287a3-f78b-409e-8aae-fe222d4af15d/public_url"><img src="https://user-images.githubusercontent.com/111112967/185856065-becd42c3-8f34-43dd-a944-913d407715d9.png" alt="Data Science Certificate" title="Data Science Certificate" height="150" align="center"></a>
+<a href="https://www.credly.com/badges/371e7536-e00e-44f0-abe4-70fc756c8fe4/public_url"><img src="https://user-images.githubusercontent.com/111112967/185855549-e7d82ffc-84b1-43da-b7a6-2ec0ac193bb6.png"alt="Data Analyst Certificate" title="Data Analyst Certificate" height="200" align="center"></a>
+<a href="https://www.credly.com/badges/364287a3-f78b-409e-8aae-fe222d4af15d/public_url"><img src="https://user-images.githubusercontent.com/111112967/185856065-becd42c3-8f34-43dd-a944-913d407715d9.png" alt="Data Science Certificate" title="Data Science Certificate" height="200" align="center"></a>
 </div>
 
 
