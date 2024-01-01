@@ -9,9 +9,9 @@
 <h2 dir="auto"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="40" data-animated-image="" ></a> <strong>About Me:</strong></h2>
 
 
-- 🔭 I’m currently working in **PwC India as a Cloud Security Consultant**
+- 🔭 I’m currently working at **PwC India as a Cloud Security Consultant**
 
-- 🌱 I’m currently learning **Machine Learning Models For Prediction**
+- 🌱 I’m currently learning **AWS Solutions Architects**
 
 - 💬 Ask me about **Excel, MS SQL, Python, Tableau, Statistics, ML**
 
